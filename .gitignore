@@ -1,0 +1,14 @@
+# Move build artifacts
+build/
+.move/
+.aptos/
+
+# OS and environment
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.env*
+*.key
+*.pem
